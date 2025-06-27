@@ -1,0 +1,8 @@
+telegram:
+  token: "YOUR_TELEGRAM_TOKEN"
+  chat_id: 123456789
+
+risk:
+  account_balance: 10000
+  risk_percent: 1.0
+  max_daily_loss_percent: 5.0
